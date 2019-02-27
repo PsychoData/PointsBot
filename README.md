@@ -10,7 +10,7 @@ As PlusPlus++ says:
 
 > Plus, minus, and keep score of all the good and not so good things your friends say and do on Slack.
 
-It's as simple as writing in Slack:
+It's as simple as writing in Slack: 
 
 ```@Tim++ for being awesome!```
 
